@@ -1,0 +1,150 @@
+,Unnamed: 0,Food_name,Energy(kcal)_per 100 g,Protein(g) per 100 g,Carbohydrate(g) per 100 g,total sugar(g) per 100 g,Added  Sugar(g) per 100 g,fibre(g) per 100 g,total fat (g) per 100 gms,saturated fat (g) per 100 g,trans fat (g) _per 100 g,Sodium(mg) per 100 g,iron (mg) per 100 gm,Cholesterol per 100 mg,Health_Label
+0,0,MAGGI,379.0,8.0,57.7,2.1,1.1,2.8,13.5,7.9,0.12,1137.1,7.7,0.0,Healthy
+1,1,Lays_American Style Cream & Onion Flavour,537.0,6.7,53.0,3.4,2.0,0.0,33.1,12.5,0.1,643.0,0.0,0.0,Healthy
+2,2,Lay's Chile Limon Potato Chips,556.0,7.3,49.4,3.4,0.0,0.0,36.6,14.5,0.1,999.0,0.0,0.0,Healthy
+3,3,Lay's Potato Chips - India's Magic Masala Pouch,547.0,8.9,47.6,4.1,0.0,0.0,35.7,14.1,0.1,942.0,0.0,0.0,Healthy
+4,4,Pringles Sour Cream & Onion Flavour,541.0,5.0,57.6,3.2,0.0,0.0,30.9,15.0,0.3,642.0,0.0,0.0,Healthy
+5,5,Cadbury Oreo Vanilla Flavour Crème Sandwich Biscuit,483.0,5.2,71.9,38.8,38.7,0.0,19.6,9.7,0.1,420.0,0.0,0.0,Unhealthy
+6,6,Kellogg's Chocos,386.0,9.0,83.66,30.0,0.0,5.0,3.0,1.33,0.0,0.333,5.0,0.0,Healthy
+7,7,Doritos Nacho Cheese Tortilla Chips,499.0,7.1,65.1,4.5,0.0,0.0,23.4,9.0,0.1,605.0,0.0,0.0,Healthy
+8,8,Parle Marie Biscuit UNIQUE,451.0,7.4,77.4,22.0,0.0,0.0,12.4,5.8,0.0,0.0,0.0,0.0,Healthy
+9,9,Cadbury Chocobakes ChocFilled Cookies,501.0,5.1,66.2,39.7,37.8,0.0,24.5,11.6,0.1,195.0,0.0,1.0,Healthy
+10,10,Sunfeast Dark Fantasy Choco Fills,513.0,5.3,64.2,34.4,31.7,0.0,26.5,12.9,0.1,166.5,0.0,0.3,Healthy
+11,11,Britannia The Original Bourbon ,493.7,5.0,72.7,38.3,35.1,0.0,20.3,10.1,0.0,119.0,0.0,0.0,Healthy
+12,12,Kellogg's Corn Flakes Real Almond Honey,410.0,6.4,82.0,25.0,0.0,1.66,6.6,4.0,0.0,0.44,7.0,0.0,Healthy
+13,13,Cadbury Dairy Milk Chocolate,532.0,7.8,60.4,57.0,47.4,0.0,29.2,19.6,0.1,129.0,0.0,20.7,Unhealthy
+14,14, Kurkure Namkeen - Masala Munch,558.0,6.4,55.2,1.0,0.0,0.0,34.6,16.0,0.1,892.0,0.0,0.0,Healthy
+15,15,Parle Happy Choco Chip Happy Cookies,489.0,5.8,71.3,30.4,0.0,0.0,20.1,10.6,0.0,0.0,0.0,0.0,Healthy
+16,16,PAZZTA Maggi Pazzta Masala Penne Pasta,279.0,8.9,58.0,6.9,3.1,3.5,2.0,1.5,0.01,803.0,0.0,2.0,Healthy
+17,17,Bingo! Tedhe Medhe Masala Tadka,546.0,5.5,51.3,1.1,1.2,0.0,32.8,15.5,0.1,738.4,0.0,0.0,Healthy
+18,18,Bingo! Mad Angles Achaari Masti ,526.0,5.6,61.2,6.0,5.2,0.0,29.5,13.8,0.1,758.8,0.0,0.0,Healthy
+19,19,Bingo! Original Style Cream & Onion,532.0,7.3,55.1,2.3,1.1,0.0,32.4,15.0,0.1,820.0,0.0,1.0,Healthy
+20,20,Britannia Gobbles Bar Cake Fruity Fun,405.0,5.0,58.0,26.5,0.0,0.0,17.0,8.0,0.0,0.0,0.0,65.0,Healthy
+21,21,Britannia Little Hearts,486.0,7.4,70.0,24.4,23.0,0.0,19.5,9.4,0.0,311.0,0.0,0.0,Healthy
+22,22,Britannia Gobbles Cake Marble Cake Choco Vanilla,414.0,6.3,58.5,28.6,28.5,0.0,17.2,8.9,0.0,184.0,0.0,82.0,Unhealthy
+23,23,Too Yumm! - Karare - Noodle Masala,487.0,6.2,69.0,3.7,2.5,3.7,20.6,9.4,0.04,720.0,0.0,0.0,Healthy
+24,24,Too Yumm! Veggie Stix,476.0,6.3,71.0,7.1,2.1,2.9,18.5,9.2,0.19,770.0,0.0,0.0,Healthy
+25,25,Too Yumm! Multigrain Chips ,483.0,8.1,67.0,9.2,8.7,4.9,19.8,9.1,0.1,970.0,0.0,0.0,Healthy
+26,26,Too Yumm! Potato Chips ,554.0,6.1,55.0,0.9,0.0,3.5,34.0,7.7,0.2,670.0,0.0,0.0,Healthy
+27,27,Too Yumm! Veggie Stix,471.0,6.1,73.0,5.2,4.2,1.9,17.3,7.4,0.05,970.0,0.0,0.0,Healthy
+28,28,Too Yumm! Bhoot Chips ,523.0,7.6,56.0,3.2,3.2,6.1,30.0,8.5,0.0,425.0,0.0,0.0,Healthy
+29,29,Too Yumm - Wafers Spicy Chilli,559.0,6.4,55.0,4.8,3.6,2.3,35.0,8.0,0.2,610.0,0.0,0.0,Healthy
+30,30,Too Yumm! Namkeen - Bikaneri Bhujia,600.0,12.4,40.0,0.0,0.0,1.6,43.2,11.3,0.2,750.0,0.0,0.0,Healthy
+31,31,Too Yumm! Namkeen - Salted Peanuts,637.0,27.1,18.0,2.3,0.0,7.2,50.5,7.6,0.2,360.0,0.0,0.0,Healthy
+32,32,Too Yumm! Namkeen - Moong Dal,469.0,21.7,56.0,2.0,0.0,12.0,17.8,4.5,0.1,400.0,0.0,0.0,Healthy
+33,33,"Too Yumm! Namkeen - All In One,",558.0,13.7,47.0,10.2,6.8,7.5,35.0,8.3,0.1,830.0,0.0,0.0,Healthy
+34,34,Nutraj Premium Raw California Almonds,597.19,19.33,21.72,5.41,0.0,0.0,48.11,9.62,0.0,2.5,0.0,0.0,Healthy
+35,35,Britannia Treat Jim Jam Biscuits,483.0,5.0,73.0,33.5,31.8,0.0,19.0,9.5,0.0,214.0,0.0,0.0,Healthy
+36,36,UNIBIC Fruit & Nut Cookies,458.0,6.4,63.0,25.0,21.5,0.0,20.0,9.0,0.0,209.0,0.0,0.0,Healthy
+37,37,UNIBIC FOODS Cashew Badam Cookies,487.0,5.5,66.0,26.0,24.3,0.0,22.3,10.0,0.0,195.0,0.0,0.0,Healthy
+38,38,Unibic Foods Choco Chip Cookies,480.0,5.8,68.0,29.0,0.0,0.0,20.5,12.8,0.0,0.0,0.0,0.0,Healthy
+39,39,UNIBIC Foods Cookies-Choco Nut Cookies,497.0,6.8,64.0,28.0,0.0,0.0,22.0,13.5,0.0,0.0,0.0,0.0,Healthy
+40,40,"Unibic Cookies, Pista Badam",523.0,7.8,60.0,24.8,0.0,0.0,28.0,14.0,0.0,0.0,0.0,3.0,Healthy
+41,41,Unibic Sugar Free Cookies  Butter,509.0,7.4,65.4,25.2,0.0,0.0,24.2,15.4,0.0,0.0,0.0,15.0,Healthy
+42,42,Unibic Sugar Free Cookies  Butter,485.0,6.2,70.0,35.0,0.0,0.0,20.0,11.2,0.0,0.0,0.0,0.0,Healthy
+43,43,Britannia Nutri Choice Digestive,481.0,9.1,68.0,13.1,11.9,7.3,20.9,10.4,0.0,368.0,0.0,0.0,Healthy
+44,44,Cadbury Nutties Chocolate Pack,511.0,5.0,67.2,61.5,57.4,0.0,24.8,13.9,0.1,117.0,0.0,18.0,Healthy
+45,45,Kwality Wall's Magnum Almond Ice Cream,249.4,3.9,21.1,19.9,0.0,0.7,16.6,9.3,0.3,50.4,0.0,0.0,Healthy
+46,46,"Cadbury 5 Star Chocolate Home Treats Chocolates Bars
+",444.0,3.1,72.9,60.5,57.1,0.0,15.9,10.1,0.1,170.0,0.0,4.0,Healthy
+47,47,Cadbury Bournville Rum & Raisin Dark Chocolate Bar,523.0,5.4,57.4,45.6,37.4,0.0,31.3,18.7,0.1,11.0,0.0,4.3,Unhealthy
+48,48,"Cadbury Fuse Peanut & Caramel Filled Chocolate Bar,",540.0,7.9,54.3,44.2,37.4,0.0,33.1,17.6,0.1,236.0,0.0,3.8,Unhealthy
+49,49,Cadbury Gems Surprise Chocolate,468.0,3.6,75.1,70.0,61.6,0.0,17.5,17.3,0.2,74.0,0.0,3.0,Healthy
+50,50,Cadbury Perk Chocolate,517.0,3.6,67.6,45.9,0.0,1.8,25.8,23.4,0.2,92.0,0.0,0.0,Healthy
+51,51,Cadbury Chocobakes Choc Layered Cakes,497.0,5.1,66.4,39.8,0.0,1.9,24.5,11.6,0.2,195.0,0.0,0.0,Healthy
+52,52,Britannia Nutri Choice Seeds Biscuits ,493.0,11.0,63.0,13.6,11.6,6.8,23.4,9.6,0.0,314.0,0.0,2.8,Healthy
+53,53,Mom's Magic Rich Cashew Almond Cookies,503.0,7.8,66.4,22.8,0.0,0.0,22.9,10.3,0.0,0.0,0.0,0.0,Healthy
+54,54,Sunfeast Dark Fantasy Yumfills,425.0,5.4,63.9,33.1,26.3,0.0,16.4,10.7,0.05,146.8,0.0,2.4,Healthy
+55,55,Sunfeast YiPPee! Tricolor Pasta,358.0,10.9,73.9,10.9,1.8,0.0,2.8,1.2,0.01,1430.5,0.0,0.1,Healthy
+56,56,Sunfeast Nice Biscuit,473.0,7.5,72.8,31.7,0.0,0.0,16.9,9.9,0.1,0.0,0.0,0.0,Healthy
+57,57,Sunfeast Bounce Cream Tangy Orange,465.0,6.1,76.0,36.2,34.9,0.0,15.1,7.4,0.02,166.7,0.0,0.0,Healthy
+58,58,Sunfeast Farmlite Super Millets Ragi & Jowar Cookies,496.0,6.2,56.7,21.0,17.7,3.2,27.9,15.1,0.16,470.1,4.73,1.0,Unhealthy
+59,59,"Sunfeast Farmlite 5 Grain Digestive Biscuit, High Fibre Biscuit",467.0,8.3,67.4,21.0,19.2,8.0,20.0,8.3,0.03,674.5,0.0,0.1,Unhealthy
+60,60,Parle G Original Gluco Biscuits,451.0,6.5,78.2,25.5,0.0,1.8,12.5,6.5,0.0,0.0,0.0,0.0,Healthy
+61,61,Parle G Gold,462.0,6.6,76.0,26.9,0.0,1.7,14.6,0.0,0.0,0.0,0.0,0.0,Healthy
+62,62,Parle Monaco Cheeselings,489.0,8.2,69.0,3.3,0.0,0.0,20.0,9.5,0.0,0.0,0.0,0.0,Healthy
+63,63,Parle Hide and Seek Chocolate Chip Cookies,479.0,5.9,73.4,32.2,0.0,0.0,18.0,9.4,0.0,0.0,0.0,0.0,Healthy
+64,64,Parle-G Oats & Berries Biscuits,445.0,7.2,78.8,25.6,24.6,0.0,11.2,5.0,0.0,303.0,0.0,0.0,Healthy
+65,65,Parle Nutricrunch Classic Digestive Cookies,489.0,6.7,70.5,15.6,14.4,6.0,20.0,9.2,0.0,251.0,0.0,0.0,Healthy
+66,66,"Parle Rusk, Elachi",433.0,7.6,80.7,24.4,0.0,0.0,8.9,4.6,0.0,0.0,0.0,0.0,Healthy
+67,67,"Parle Marie
+",451.0,7.7,77.2,20.0,0.0,0.0,12.4,5.7,0.0,0.0,0.0,0.0,Healthy
+68,68,Parle Wafers Piri Piri,562.0,7.3,56.7,2.0,0.0,0.0,34.0,16.2,0.1,0.0,0.0,0.0,Healthy
+69,69,Parle Bigger Kaccha Mango Bite,386.0,0.0,96.5,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Healthy
+70,70,Parle Bigger Mango Bite,391.0,0.0,97.8,80.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Healthy
+71,71,"Parle Fab! Jam-in Mixed Fruit Flavoured Jam Biscuits
+",462.0,4.8,78.0,37.0,0.0,0.0,14.6,6.7,0.0,0.0,0.0,0.0,Healthy
+72,72,Parle Bigger Orange Bite,385.0,0.0,96.3,79.0,71.3,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Healthy
+73,73,Parle Top Delicious & Crispy,505.0,7.4,66.7,9.7,0.0,0.0,23.1,11.0,0.0,0.0,0.0,1.5,Healthy
+74,74,Parle Krackjack The Original Sweet & Salty Crackers,489.0,6.8,70.5,19.6,19.1,0.0,19.9,9.4,0.0,371.0,0.0,0.0,Healthy
+75,75,Parle Happy Choco Chip Happy Cookies,489.0,5.8,71.3,30.4,0.0,0.0,20.1,10.6,0.0,0.0,0.0,0.0,Healthy
+76,76,Parle Grand Londonderry Pouch,401.0,1.2,91.7,72.8,0.0,0.0,3.3,1.2,0.0,0.0,0.0,0.0,Healthy
+77,77,Parle Kismi Assorted with Four Delecious Flavoured Elaichi,418.0,2.5,80.5,52.0,0.0,0.0,9.5,5.15,0.0,0.0,0.0,0.0,Healthy
+78,78,Parle Magix Orange Cream Biscuit,462.0,5.6,77.3,35.1,34.8,0.0,14.5,6.7,0.0,228.0,0.0,0.0,Healthy
+79,79,Parle Fab Bourbon,467.0,5.1,76.4,41.5,41.3,0.0,15.7,7.7,0.0,102.0,0.0,0.0,Healthy
+80,80,Parle 2 In 1 Eclairs Toffee,412.0,2.5,79.1,54.4,38.7,0.0,9.5,4.4,0.0,129.0,0.0,0.0,Healthy
+81,81,Parle Milano Center Filled Choco,528.0,3.2,64.9,38.0,0.0,0.0,28.4,14.7,0.0,0.0,0.0,0.0,Healthy
+82,82,Nestle Milkybar Chocolate,488.0,9.0,43.3,41.3,29.1,1.4,30.9,28.4,0.07,213.3,0.0,0.0,Healthy
+83,83,Nestle Munch Maha Choco Taste,435.0,5.6,49.8,33.6,30.0,0.0,23.8,23.5,0.06,82.2,0.0,0.0,Healthy
+84,84,Nestlé Classic Chocolate,533.0,8.7,59.6,57.7,43.7,1.7,28.9,24.9,0.0,122.0,0.0,0.0,Healthy
+85,85,Nestlé Kitkat Bars,438.0,6.4,47.4,35.1,28.9,0.0,24.8,24.5,0.04,97.4,0.0,0.0,Healthy
+86,86,Britannia Treat Croissant ,404.0,5.5,59.0,28.2,26.2,0.0,16.2,8.5,0.0,138.0,0.0,1.0,Healthy
+87,87,Britannia Pure Magic Chocolush ,528.0,5.0,64.0,34.0,0.0,0.0,28.0,12.0,0.0,0.0,0.0,0.0,Healthy
+88,88,Britannia 50-50 Sweet & Salty Biscuits,487.0,7.0,72.0,19.5,0.0,0.0,19.0,9.0,0.0,0.0,0.0,0.0,Healthy
+89,89,Britannia Nice Time,463.0,6.0,76.0,30.5,27.6,0.0,15.0,8.0,0.0,274.0,0.0,0.0,Healthy
+90,90,Britannia Treat Crème Wafers - Vanilla Flavoured Wafer Biscuit,550.0,4.4,60.0,36.2,30.0,0.0,33.6,25.4,0.0,106.0,0.0,0.0,Unhealthy
+91,91,Britannia Biscafe - Super Thin Coffee Cracker,485.0,6.8,71.8,22.6,21.5,0.0,19.0,9.3,0.0,462.0,0.0,3.5,Unhealthy
+92,92,Britannia Good Day  Chunkies,512.0,5.0,62.0,32.5,0.0,0.0,27.0,8.5,2.0,0.0,0.0,4.0,Healthy
+93,93,Britannia 50-50 Golmaal Light Crackers with Kaala Jeera Biscuits,508.0,6.4,68.4,21.8,20.8,0.0,23.2,11.2,0.0,458.0,0.0,0.0,Unhealthy
+94,94,Britannia Tiger Krunch Chocochip Biscuits,483.0,6.0,72.0,30.0,0.0,0.0,19.0,8.0,0.0,0.0,7.0,0.0,Healthy
+95,95,PAZZTA Maggi Masala Penne Pasta,279.0,8.9,58.0,6.9,3.1,3.5,2.0,1.5,0.01,803.0,0.0,2.0,Healthy
+96,96,MAGGI Nutri-licious Veg Atta Masala Noodles,321.0,8.1,50.1,2.0,1.1,4.1,11.1,8.5,0.16,805.8,6.62,0.0,Healthy
+97,97,"MAGGI 2-Minute Spicy Manchurian Noodles,",332.0,8.1,48.0,0.9,0.7,0.0,12.0,8.1,0.15,1040.0,0.0,0.0,Healthy
+98,98,MAGGI Korean BBQ Chicken Noodles,336.0,9.0,44.8,2.4,2.0,0.0,13.4,7.4,0.14,858.7,0.0,3.0,Healthy
+99,99,MAGGI Korean BBQ Veg Noodles,321.0,8.2,41.6,3.2,2.7,0.0,13.5,7.6,0.14,915.7,0.0,0.0,Healthy
+100,100,Maggi 2-Minute Spicy Garlic Noodles,331.0,7.7,48.8,1.9,1.8,0.0,12.1,8.2,0.15,1023.6,0.0,0.0,Healthy
+101,101,Tata Sampann Yumside Instant Schezwan Veg Noodles,124.0,3.9,7.3,5.0,0.2,2.0,8.8,1.6,0.03,547.2,0.0,0.0,Healthy
+102,102,Tata Sampann Yumside Cheesy Instant Pasta,84.1,5.4,8.7,3.3,0.0,2.4,3.1,2.2,0.1,455.4,0.0,3.3,Healthy
+103,103,Tata Sampann Yumside Ready to Eat Chicken Tikka Sausage,208.0,11.1,11.6,0.8,0.8,3.2,13.0,4.4,0.0,1369.0,0.0,74.5,Healthy
+104,104,Tata Sampann Yumside Tomato Fusilli Instant Pasta,104.0,3.6,15.1,7.5,4.7,1.9,3.3,1.3,0.08,479.9,0.0,1.0,Healthy
+105,105,Tata Sampann Yumside Ready to Eat Chana Masala,105.0,4.9,15.8,2.3,0.0,13.4,2.5,0.6,0.03,504.4,0.0,0.0,Healthy
+106,106,"Tata Sampann Yumside Ready to Eat Butter Chicken,",152.0,4.4,0.6,1.9,0.4,0.2,11.1,3.1,0.14,394.3,0.0,30.4,Healthy
+107,107,"Tata Sampann Yumside Ready to Eat Chicken Biryani,",181.0,8.4,28.0,0.0,0.0,3.0,3.9,1.9,0.2,550.0,0.0,5.46,Healthy
+108,108,"Tata Sampann Yumside Ready to Eat Schezwan Fried Rice,",171.0,3.1,30.3,1.7,0.0,1.0,5.0,0.7,0.0,851.0,0.0,0.0,Healthy
+109,109,"Tata Sampann Yumside Ready to Eat Paneer Makhani,",176.0,8.7,8.4,2.3,0.5,0.4,11.9,3.9,0.11,335.6,0.0,3.9,Healthy
+110,110,Tata Sampann Yumside Ready to Eat Dal Makhani,147.0,5.1,13.0,1.5,0.0,1.9,8.3,4.5,0.17,438.8,0.0,22.0,Healthy
+111,111,Haldiram's Nagpur Moong Dal,468.0,19.51,50.35,0.0,0.0,1.46,20.94,7.73,0.0,0.0,0.0,0.0,Healthy
+112,112,Haldiram's Nagpur Khatta Meetha,530.0,9.26,57.3,4.26,0.0,4.01,29.25,12.48,0.0,368.0,0.0,0.0,Healthy
+113,113,Haldiram's Boondi Plain,578.9,10.8,46.4,2.3,0.0,6.2,38.9,13.6,0.1,0.0,0.0,0.0,Healthy
+114,114,Haldirams Fatafat Bhel,526.0,11.0,53.0,15.0,12.0,0.0,30.0,12.0,0.1,550.0,0.0,2.64,Unhealthy
+115,115,Haldiram's Nagpur Orange Burfee,296.0,3.38,66.91,57.74,54.05,1.81,1.3,0.52,0.0,26.08,0.0,0.0,Healthy
+116,116,Haldiram's Nagpur Mixture,524.28,16.78,46.37,0.0,0.0,0.0,30.15,10.1,0.0,107.0,0.0,0.0,Healthy
+117,117, Haldirams Peanut ,610.0,26.0,18.5,0.5,0.0,0.0,48.0,24.0,0.1,0.0,0.0,0.0,Healthy
+118,118,"
+Haldiram's Namkeen",549.7,19.2,40.6,2.9,0.0,0.0,34.5,6.8,0.1,658.2,0.0,0.0,Healthy
+119,119,Haldirams Namkeen  Murruku,555.0,10.0,50.0,0.1,0.0,0.0,35.0,16.0,0.1,720.0,0.0,1.0,Healthy
+120,120,Haldirams Bhujia Plain,581.3,13.4,39.9,4.1,0.0,0.0,40.9,13.5,0.1,922.2,0.0,0.0,Healthy
+121,121,Haldirams Chatpata Dal ,465.84,19.7,54.8,2.4,0.0,0.0,18.7,4.3,0.0,575.8,0.0,0.0,Healthy
+122,122,Haldiram's Long Sev,612.1,12.9,36.4,2.6,0.0,0.0,46.1,15.7,0.1,765.6,0.0,0.0,Healthy
+123,123,Haldirams Gathia,619.0,13.2,32.2,3.1,0.0,4.0,48.0,21.6,0.1,469.7,0.0,0.1,Healthy
+124,124,Haldiram's Nagpur Mini Samosa,504.0,7.13,50.36,4.83,0.0,0.63,30.5,12.73,0.0,638.0,0.0,0.0,Healthy
+125,125,Haldirams Nagpur Whole Salted Peanuts,591.82,25.6,25.31,0.0,0.0,3.06,44.26,19.0,0.0,0.0,0.0,0.0,Healthy
+126,126,Haldiram's Nagpur Whole Tasty Nuts,624.52,21.24,23.34,0.0,0.0,0.0,49.53,8.39,0.0,493.0,0.0,0.0,Healthy
+127,127,Haldiram's Chana Jor Garam ,488.52,16.6,53.0,3.9,0.0,0.0,23.4,6.0,0.0,435.1,0.0,0.0,Healthy
+128,128,Haldiram's Panchrattan,548.0,12.0,44.0,2.5,0.0,0.0,36.0,8.0,0.1,0.0,0.0,0.0,Healthy
+129,129,Haldiram's Delhi Nimbu Masala,544.26,9.8,51.7,2.7,0.0,0.0,33.2,10.0,0.0,1000.0,0.0,0.0,Healthy
+130,130,Haldiram's Snack  Mathri,567.45,4.0,57.0,1.0,0.0,0.0,36.0,20.0,0.0,1214.0,0.0,0.0,Healthy
+131,131,Haldiram's Nagpur Punjabi Tadka,579.58,7.16,42.43,0.23,0.0,0.0,42.31,18.62,0.0,610.0,0.0,0.0,Healthy
+132,132,Haldiram's Nagpur Mini Bhakarwadi,539.0,7.77,49.89,4.82,0.0,3.1,34.22,11.22,0.0,434.0,0.0,0.0,Healthy
+133,133,Bisk Farm Marie Biscuit,413.17,7.4,67.25,18.73,0.0,0.0,13.01,6.2,0.0,0.0,0.0,0.0,Healthy
+134,134,Bisk Farm Biscuit  Googly,495.78,7.44,68.53,19.03,0.0,0.0,22.76,11.79,0.0,0.0,1.7,0.0,Healthy
+135,135,Bisk Farm Biscuit - Cheese Cream,505.16,21.55,53.57,7.5,0.0,0.0,22.63,13.7,0.0,0.0,1.69,26.49,Healthy
+136,136,Bisk Farm Coco Malai Biscuit,469.48,8.23,69.84,24.18,0.0,0.0,20.03,11.42,0.0,0.0,0.0,0.0,Healthy
+137,137,Amul Dark Chocolate Bar Fruit N Nut,556.0,7.1,55.0,0.0,37.0,0.0,34.2,17.5,0.0,0.0,0.0,0.0,Healthy
+138,138,Fresh Produce Amul Single Origin Milk Chocolate,568.0,9.5,49.7,0.0,33.8,0.0,36.9,22.2,0.0,0.0,0.0,0.0,Healthy
+139,139,Amul India Twilight Tryst Dark Chocolate,560.0,7.7,55.4,0.0,43.0,0.0,34.2,20.7,0.0,0.0,0.0,0.0,Healthy
+140,140,Amul Tropical Orange Chocolate,554.0,14.2,43.0,0.0,10.0,0.0,36.1,21.5,0.0,0.0,0.0,0.0,Healthy
+141,141,Amul Fruit N Nut Chocolate I Love You,556.0,7.1,55.0,0.0,37.0,0.0,34.2,17.5,0.0,0.0,0.0,0.0,Healthy
+142,142,AMUL ALMONDO Chocolate,583.0,12.6,41.4,0.0,30.9,0.0,40.8,11.2,0.0,0.0,0.0,0.0,Healthy
+143,143,Amul Smooth & Creamy Milk Chocolate,550.0,9.2,55.0,0.0,40.0,0.0,32.6,19.8,0.0,0.0,0.0,0.0,Healthy
+144,144,Amul Belgian Milk Chocolate,554.0,14.2,43.0,0.0,10.0,0.0,36.1,21.5,0.0,0.0,0.0,0.0,Healthy
