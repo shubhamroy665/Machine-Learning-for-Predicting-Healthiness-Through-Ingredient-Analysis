@@ -1,5 +1,5 @@
 # Machine-Learning-for-Predicting-Healthiness-Through-Ingredient-Analysis
-data/health.png
+![Project Logo](./data/health.png)
 Introduction
 
 SmartSnack is a machine learning project aimed at predicting the healthiness of food products based on ingredient analysis. By leveraging various classification algorithms, this project seeks to provide accurate tools to distinguish between healthy and unhealthy food options. With the growing emphasis on healthy eating habits, SmartSnack aims to empower consumers to make informed dietary choices and promote healthier eating habits.
