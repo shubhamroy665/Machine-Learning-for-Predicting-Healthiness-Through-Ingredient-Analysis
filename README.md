@@ -1,5 +1,8 @@
 ![Alt text](./data/health.png)
 
+<img src="./data/health.png" alt="Alt text" width="800" />
+
+
 # Machine-Learning-for-Predicting-Healthiness-Through-Ingredient-Analysis
 
 Introduction
